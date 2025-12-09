@@ -10,6 +10,7 @@ export const projects = [
     tags: [
       { name: 'nextjs', color: 'blue-text-gradient' },
       { name: 'typescript', color: 'green-text-gradient' },
+      { name: 'zustand', color: 'purple-text-gradient' },
       { name: 'tailwind', color: 'pink-text-gradient' },
     ],
     image: businessOperationsImage,
